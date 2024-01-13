@@ -75,8 +75,6 @@
     align-items: center;
   }
   
- 
-  /* Media query for smaller screens */
   @media only screen and (max-width: 768px) {
     .loginsignup-container {
       padding: 40px 10%;
