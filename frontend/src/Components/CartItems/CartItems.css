@@ -94,6 +94,10 @@
     cursor:pointer;
 
 }
+.cartitems-total button a {
+    color: white;
+    text-decoration: none;
+}
 @media(max-width:1280px){
     .cartitems{
         margin: 60px 50px;
@@ -143,7 +147,7 @@
     .cartitems-format-main{
         display: none;
         grid-template-columns: 0.5fr 3fr 0.5fr;
-        gap: 10px;
+        gap: 5px;
     }
     .cartitems-format{
         display: grid;
